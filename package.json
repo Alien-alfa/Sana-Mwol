@@ -1,5 +1,5 @@
 {
-  "name": "Sana-Mwol",
+  "name": "PANDA SER",
   "version": "7.3.6",
   "description": "Sana is the Modified Version of WhatsAsena, Made By @Ajx-Abu with Baileys.",
   "main": "./Sana-Mwol/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajx-Abu/Sana-Mwol.git"
+    "url": "https://github.com/rohithahan/Sana-Mwol"
   },
   "keywords": [
     "whatsapp",
@@ -21,7 +21,7 @@
   "developer": "@Ajx-Abu / @Ajx-Abu",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Ajx-Abu/Sana-Mwol/issues"
+    "url": "https://github.com/rohithahan/Sana-Mwol/issues"
   },
   "homepage": "https://github.com/Ajx-Abu/Sana-Mwol3#readme",
   "dependencies": {
