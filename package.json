@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/rohithahan/Sana-Mwol/issues"
   },
-  "homepage": "https://github.com/Ajx-Abu/Sana-Mwol3#readme",
+  "homepage": "https://github.com/rohithahan/Sana-Mwol3#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
